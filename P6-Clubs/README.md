@@ -1,1 +1,3 @@
+### Clubs Scheduling Program
 This is a program designed to serve as a proof-of-concept of the student scheduling program. It is a fully-functioning club scheduler, and it uses Monte-Carlo method to optimize the timing of each of the clubs. To run, please download the latest JDK from https://java.com/en/download/ and double click the Main.class file (or run ‘java Main’ from the command line).
+Summary: A list of club membership is located in the clubs file, and this program sorts the clubs by day so that the fewest number of students experience overlap between two clubs on the same day. This will serve as a basis for the actual scheduling program.
