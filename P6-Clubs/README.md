@@ -1,0 +1,1 @@
+This is a program designed to serve as a proof-of-concept of the student scheduling program. It is a fully-functioning club scheduler, and it uses Monte-Carlo method to optimize the timing of each of the clubs. To run, please download the latest JDK from https://java.com/en/download/ and double click the Main.class file (or run ‘java Main’ from the command line).
